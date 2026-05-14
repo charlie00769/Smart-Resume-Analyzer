@@ -227,8 +227,7 @@ CSS
 # 📸 Screenshots
 
 ## Resume Upload UI
-
-_Add project screenshots here later_
+<img width="470" height="395" alt="image" src="https://github.com/user-attachments/assets/32a829b6-0e9a-4e76-995f-cbec6a87adfa" />
 
 ---
 
